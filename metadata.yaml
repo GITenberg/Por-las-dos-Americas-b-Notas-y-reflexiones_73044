@@ -1,0 +1,37 @@
+_repo: Por-las-dos-Americas-b-Notas-y-reflexiones_73044
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Molina, Enrique
+    alias: Garmendia, Enrique Molina
+    birthdate: 1871
+    deathdate: 1964
+    gutenberg_agent_id: '42619'
+    url: http://www.gutenberg.org/2009/agents/42619
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Enrique_Molina_Garmendia
+    - https://es.wikipedia.org/wiki/Enrique_Molina_Garmendia
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73044'
+language: es
+pgterms:marc905: 20070310051751molina
+pgterms:marc906: '1920'
+pgterms:marc907: CL
+production_note: Santiago Yrla, Chuck Greif, Adrian Mastronardi and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aSantiago de Chile :$bCasa Editorial Minerva, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- Description and travel'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'America -- Description and travel'
+- !lcc 'E151'
+- GITenberg
+title: 'Por las dos Américas : $b Notas y reflexiones'
+url: http://www.gutenberg.org/ebooks/73044
