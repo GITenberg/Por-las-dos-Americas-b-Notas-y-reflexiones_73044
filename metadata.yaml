@@ -1,5 +1,8 @@
 _repo: Por-las-dos-Americas-b-Notas-y-reflexiones_73044
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73044-h/images/cover.jpg
 creator:
   author:
     agent_name: Molina, Enrique
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Enrique_Molina_Garmendia
     - https://es.wikipedia.org/wiki/Enrique_Molina_Garmendia
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73044#Por-las-dos-Americas-b-Notas-y-reflexiones
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
